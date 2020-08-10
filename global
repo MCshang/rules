@@ -1,6 +1,7 @@
 # (DNS Cache Pollution Protection)
 # > Google
 DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,getoutline.org
